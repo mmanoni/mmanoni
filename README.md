@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello 👋
 
-<h1 align="center">Hello 👋, I'm Mauricio</h1>
-<h3 align="center">A Sales Engineer going back to programming \'s from Argentina</h3>
+<h1 align="left">I'm Mauricio</h1>
+<h3 align="left">A Sales Engineer going back to programming \'s from Argentina</h3>
 
 - ⚡ I’m currently working at @Delta Electronics as a **Sales Engineer** for **critical telecom & data center infrastructures**
 
