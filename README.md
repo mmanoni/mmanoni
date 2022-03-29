@@ -1,9 +1,9 @@
 ### Hello 👋
 
 <h1 align="left">I'm Mauricio</h1>
-<h3 align="left">A Sales Engineer going back to programming \'s from Argentina</h3>
+<h3 align="left">A Sales Engineer from Argentina going back to programming \'s</h3>
 
-- ⚡ I’m currently working at @Delta Electronics as a **Sales Engineer** for **critical telecom & data center infrastructures**
+- ⚡ I’m currently working at <a href="https://www.deltaww.com/"> Delta Electronics </a> as a **Sales Engineer** for **critical telecom & data center infrastructures**
 
 - 🌱 I’m currently learning **SRE and DevOps culture**
 
