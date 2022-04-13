@@ -1,7 +1,7 @@
 ### Hello 👋
 
 <h1 align="left">I'm Mauricio</h1>
-<h3 align="left">A Sales Engineer from Argentina going back to programming \</h3>
+<h3 align="left">A Sales Engineer from Argentina going back to programming /</h3>
 
 - ⚡ I work at <a href="https://www.deltaww.com/"> Delta Electronics </a> as a **Sales Engineer** for **critical telecom & data center infrastructures**
 
@@ -11,6 +11,7 @@
 
 - 📫 contact me on **manoni.mauricio@gmail.com**
 
+- :surfer: checkout my website <a href="https://manoni.com.ar/" target="blank">manoni.com.ar </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mauriciomanoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriciomanoni" height="30" width="40" /></a>
