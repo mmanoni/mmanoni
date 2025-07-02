@@ -3,6 +3,8 @@
 <h1 align="left">I'm Mauricio</h1>
 <h3 align="left">An Electronic Engineer from Argentina going back to code /</h3>
 
+- 📚 Pursuing a Master on Engineering Information Systems
+
 - ⚡ I work at <a href="https://www.tempelgroup.com/"> Tempel Group </a> as a **Business Development Manager** for **Telecom and Utility sectors**
 
 - 🌱 I’m currently learning about **SRE and DevOps culture**
