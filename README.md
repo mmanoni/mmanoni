@@ -3,7 +3,7 @@
 <h1 align="left">I'm Mauricio</h1>
 <h3 align="left">An Electronic Engineer from Argentina going back to code /</h3>
 
-- ⚡ I work at <a href="https://www.tte.com.ar/"> TTE </a> as a **Sales Engineer** for **Electrical infrastructures**
+- ⚡ I work at <a href="https://www.tempelgroup.com/"> Tempel Group </a> as a **Business Development Manager** for **Telecom and Utility sectors**
 
 - 🌱 I’m currently learning about **SRE and DevOps culture**
 
